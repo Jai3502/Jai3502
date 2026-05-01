@@ -1,3 +1,7 @@
+ABOUT ME 
+HI , my name is jai prakah singh . I have built a strong interest in data analytics and data science. I have completed my degree
+I have completed . These projects helped me gain hands-on experience in data handling, automation, and problem-solving. 
+Currently, I am focusing on improving my data analysis skills by working on real-world datasets and building dashboards to extract meaningful insights. I am particularly interested in roles where I can use data to solve business problems and support decision-making. I am a quick learner, adaptable, and always eager to improve my technical skills. I am looking for an opportunity where I can contribute my knowledge and grow as a data professional.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/its_jai_0_o) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jai-prakash-066a8a3a3) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jaiprakash3502@gmail.com) 
