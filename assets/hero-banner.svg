@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 560" role="img" aria-label="Jai Prakash Singh futuristic data science workstation">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#050B18"/>
+      <stop offset="100%" stop-color="#0B1220"/>
+    </linearGradient>
+    <linearGradient id="cyan" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00F7FF"/>
+      <stop offset="100%" stop-color="#3B82F6"/>
+    </linearGradient>
+    <linearGradient id="purple" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#8B5CF6"/>
+      <stop offset="100%" stop-color="#4C1D95"/>
+    </linearGradient>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="1600" height="560" fill="url(#bg)" rx="28"/>
+  <g opacity="0.18" stroke="#00F7FF" stroke-width="1">
+    <path d="M0 100H1600"/><path d="M0 200H1600"/><path d="M0 300H1600"/><path d="M0 400H1600"/><path d="M0 500H1600"/>
+    <path d="M100 0V560"/><path d="M300 0V560"/><path d="M500 0V560"/><path d="M700 0V560"/><path d="M900 0V560"/><path d="M1100 0V560"/><path d="M1300 0V560"/><path d="M1500 0V560"/>
+  </g>
+  <circle cx="1260" cy="120" r="120" fill="#0B1220" stroke="url(#cyan)" stroke-width="2" opacity="0.8"/>
+  <circle cx="1260" cy="120" r="72" fill="none" stroke="url(#cyan)" stroke-width="2" stroke-dasharray="6 6"/>
+  <circle cx="1260" cy="120" r="42" fill="#00F7FF" opacity="0.16"/>
+  <g opacity="0.9">
+    <circle cx="1260" cy="120" r="8" fill="#00F7FF"/>
+    <circle cx="1215" cy="88" r="4" fill="#3B82F6"/>
+    <circle cx="1305" cy="152" r="4" fill="#8B5CF6"/>
+  </g>
+  <rect x="140" y="120" width="560" height="320" rx="24" fill="#0B1220" stroke="url(#cyan)" stroke-opacity="0.45"/>
+  <rect x="170" y="150" width="500" height="245" rx="18" fill="#050B18" stroke="#17314F"/>
+  <rect x="186" y="170" width="120" height="92" rx="12" fill="#0E1A2E" stroke="#2B5C97"/>
+  <rect x="322" y="170" width="330" height="92" rx="12" fill="#0E1A2E" stroke="#2B5C97"/>
+  <rect x="186" y="278" width="466" height="100" rx="12" fill="#0E1A2E" stroke="#2B5C97"/>
+  <g stroke="url(#cyan)" stroke-width="3" fill="none" stroke-linecap="round">
+    <path d="M212 216H286"/><path d="M212 230H260"/>
+    <path d="M342 214C369 182 405 182 428 214"/><path d="M432 214C454 186 488 186 512 214"/><path d="M516 214C541 180 576 180 602 214"/>
+    <path d="M214 318C245 286 292 286 326 318"/><path d="M338 318C369 288 414 288 437 318"/><path d="M450 318C484 288 530 288 608 318"/>
+  </g>
+  <rect x="880" y="140" width="320" height="220" rx="24" fill="#0B1220" stroke="url(#purple)" stroke-opacity="0.5"/>
+  <rect x="910" y="168" width="260" height="160" rx="14" fill="#050B18"/>
+  <rect x="930" y="188" width="80" height="14" rx="7" fill="#00F7FF"/>
+  <rect x="930" y="214" width="120" height="10" rx="5" fill="#3B82F6" opacity="0.8"/>
+  <rect x="930" y="240" width="90" height="10" rx="5" fill="#8B5CF6" opacity="0.8"/>
+  <rect x="930" y="264" width="150" height="10" rx="5" fill="#3B82F6" opacity="0.65"/>
+  <circle cx="1110" cy="240" r="44" fill="#0E1A2E" stroke="url(#cyan)" stroke-width="2"/>
+  <path d="M1110 210V270" stroke="#00F7FF" stroke-width="4" stroke-linecap="round"/>
+  <path d="M1080 240H1140" stroke="#00F7FF" stroke-width="4" stroke-linecap="round"/>
+  <rect x="910" y="386" width="340" height="120" rx="22" fill="#0B1220" stroke="url(#cyan)" stroke-opacity="0.45"/>
+  <g transform="translate(940 412)">
+    <rect x="0" y="0" width="72" height="50" rx="8" fill="#0E1A2E" stroke="#3B82F6"/>
+    <rect x="88" y="0" width="72" height="50" rx="8" fill="#0E1A2E" stroke="#00F7FF"/>
+    <rect x="176" y="0" width="72" height="50" rx="8" fill="#0E1A2E" stroke="#8B5CF6"/>
+  </g>
+  <g filter="url(#glow)">
+    <path d="M1220 404C1246 372 1278 358 1310 354" stroke="url(#cyan)" stroke-width="4" fill="none" stroke-linecap="round"/>
+    <path d="M1220 424C1248 394 1286 382 1328 386" stroke="url(#purple)" stroke-width="3" fill="none" stroke-linecap="round" opacity="0.8"/>
+  </g>
+  <rect x="1180" y="332" width="250" height="120" rx="22" fill="#080D16" stroke="#2B5C97"/>
+  <g transform="translate(1210 354)">
+    <rect x="0" y="0" width="40" height="10" rx="5" fill="#00F7FF"/><rect x="0" y="20" width="64" height="10" rx="5" fill="#3B82F6"/><rect x="0" y="40" width="96" height="10" rx="5" fill="#8B5CF6"/>
+  </g>
+  <text x="140" y="488" font-family="Segoe UI, Arial, sans-serif" font-size="46" font-weight="700" fill="#E5F6FF" letter-spacing="2">JAI PRAKASH SINGH</text>
+  <text x="140" y="524" font-family="Segoe UI, Arial, sans-serif" font-size="24" fill="#00F7FF">Data Analyst • Data Scientist • AI/ML Developer • Python Developer</text>
+  <text x="140" y="548" font-family="Segoe UI, Arial, sans-serif" font-size="16" fill="#94A3B8">Transforming Data into Insights &amp; Intelligent Solutions</text>
+</svg>

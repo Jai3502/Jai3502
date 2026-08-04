@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" role="img" aria-label="Data science workflow from data to insight">
+  <rect width="900" height="520" rx="24" fill="#050B18"/>
+  <rect x="40" y="40" width="820" height="440" rx="22" fill="#0B1220" stroke="#17314F"/>
+  <path d="M120 130H240" stroke="#00F7FF" stroke-width="6" stroke-linecap="round"/>
+  <rect x="90" y="90" width="140" height="80" rx="16" fill="#0E1A2E" stroke="#3B82F6"/>
+  <text x="118" y="135" fill="#E5F6FF" font-family="Segoe UI, Arial, sans-serif" font-size="22">Raw Data</text>
+  <path d="M230 130H340" stroke="#00F7FF" stroke-width="6" stroke-linecap="round"/>
+  <rect x="340" y="90" width="140" height="80" rx="16" fill="#0E1A2E" stroke="#3B82F6"/>
+  <text x="357" y="135" fill="#E5F6FF" font-family="Segoe UI, Arial, sans-serif" font-size="22">Clean Data</text>
+  <path d="M480 130H590" stroke="#00F7FF" stroke-width="6" stroke-linecap="round"/>
+  <rect x="590" y="90" width="140" height="80" rx="16" fill="#0E1A2E" stroke="#3B82F6"/>
+  <text x="608" y="135" fill="#E5F6FF" font-family="Segoe UI, Arial, sans-serif" font-size="22">Analyze</text>
+  <path d="M660 170V250" stroke="#00F7FF" stroke-width="6" stroke-linecap="round"/>
+  <rect x="590" y="250" width="140" height="80" rx="16" fill="#0E1A2E" stroke="#8B5CF6"/>
+  <text x="602" y="295" fill="#E5F6FF" font-family="Segoe UI, Arial, sans-serif" font-size="22">Model</text>
+  <path d="M590 290H480" stroke="#00F7FF" stroke-width="6" stroke-linecap="round"/>
+  <rect x="340" y="250" width="140" height="80" rx="16" fill="#0E1A2E" stroke="#8B5CF6"/>
+  <text x="356" y="295" fill="#E5F6FF" font-family="Segoe UI, Arial, sans-serif" font-size="22">Visualize</text>
+  <path d="M340 290H230" stroke="#00F7FF" stroke-width="6" stroke-linecap="round"/>
+  <rect x="90" y="250" width="140" height="80" rx="16" fill="#0E1A2E" stroke="#8B5CF6"/>
+  <text x="112" y="295" fill="#E5F6FF" font-family="Segoe UI, Arial, sans-serif" font-size="22">Insight</text>
+  <g opacity="0.9">
+    <rect x="180" y="360" width="240" height="80" rx="16" fill="#0E1A2E" stroke="#2B5C97"/>
+    <rect x="210" y="386" width="92" height="12" rx="6" fill="#00F7FF"/>
+    <rect x="210" y="406" width="120" height="10" rx="5" fill="#3B82F6"/>
+    <rect x="470" y="360" width="240" height="80" rx="16" fill="#0E1A2E" stroke="#2B5C97"/>
+    <rect x="500" y="386" width="82" height="12" rx="6" fill="#00F7FF"/>
+    <rect x="500" y="406" width="116" height="10" rx="5" fill="#8B5CF6"/>
+  </g>
+  <text x="120" y="462" fill="#94A3B8" font-family="Segoe UI, Arial, sans-serif" font-size="20">DATA → CLEAN → ANALYZE → MODEL → VISUALIZE → INSIGHT</text>
+</svg>

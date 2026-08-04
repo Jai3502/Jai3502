@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 560" role="img" aria-label="Modern analytics dashboard illustration">
+  <rect width="900" height="560" rx="24" fill="#050B18"/>
+  <rect x="44" y="48" width="812" height="464" rx="20" fill="#0B1220" stroke="#17314F"/>
+  <rect x="78" y="86" width="184" height="94" rx="16" fill="#0E1A2E" stroke="#3B82F6"/>
+  <text x="104" y="122" fill="#94A3B8" font-family="Segoe UI, Arial, sans-serif" font-size="16">Revenue</text>
+  <text x="104" y="152" fill="#E5F6FF" font-family="Segoe UI, Arial, sans-serif" font-size="32">$84K</text>
+  <rect x="292" y="86" width="184" height="94" rx="16" fill="#0E1A2E" stroke="#00F7FF"/>
+  <text x="320" y="122" fill="#94A3B8" font-family="Segoe UI, Arial, sans-serif" font-size="16">Growth</text>
+  <text x="320" y="152" fill="#E5F6FF" font-family="Segoe UI, Arial, sans-serif" font-size="32">+18%</text>
+  <rect x="506" y="86" width="316" height="94" rx="16" fill="#0E1A2E" stroke="#8B5CF6"/>
+  <path d="M536 152C570 128 610 122 642 140C674 158 714 164 790 112" stroke="#00F7FF" stroke-width="4" fill="none" stroke-linecap="round"/>
+  <path d="M536 152C570 134 610 132 642 148C674 164 714 164 790 126" stroke="#3B82F6" stroke-width="2" fill="none" stroke-linecap="round" opacity="0.75"/>
+  <rect x="78" y="224" width="338" height="220" rx="16" fill="#0E1A2E" stroke="#2B5C97"/>
+  <path d="M120 400C148 344 184 300 220 286C252 274 280 286 318 254" stroke="#00F7FF" stroke-width="4" fill="none" stroke-linecap="round"/>
+  <path d="M120 400C150 370 184 336 220 322C254 308 286 320 318 292" stroke="#3B82F6" stroke-width="3" fill="none" stroke-linecap="round" opacity="0.8"/>
+  <rect x="440" y="224" width="182" height="220" rx="16" fill="#0E1A2E" stroke="#2B5C97"/>
+  <circle cx="531" cy="334" r="70" fill="none" stroke="#00F7FF" stroke-width="18" stroke-dasharray="220 220"/>
+  <circle cx="531" cy="334" r="70" fill="none" stroke="#8B5CF6" stroke-width="18" stroke-dasharray="140 220" transform="rotate(-20 531 334)"/>
+  <rect x="648" y="224" width="174" height="220" rx="16" fill="#0E1A2E" stroke="#2B5C97"/>
+  <rect x="676" y="252" width="118" height="12" rx="6" fill="#00F7FF"/>
+  <rect x="676" y="280" width="96" height="10" rx="5" fill="#3B82F6"/>
+  <rect x="676" y="304" width="110" height="10" rx="5" fill="#8B5CF6"/>
+  <rect x="676" y="330" width="84" height="10" rx="5" fill="#00F7FF" opacity="0.8"/>
+  <rect x="676" y="356" width="100" height="10" rx="5" fill="#3B82F6" opacity="0.8"/>
+  <text x="78" y="480" fill="#94A3B8" font-family="Segoe UI, Arial, sans-serif" font-size="16">Dashboard • Filters • KPI Tracking • Forecasting</text>
+</svg>

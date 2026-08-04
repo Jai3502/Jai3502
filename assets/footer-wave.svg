@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 260" role="img" aria-label="Futuristic footer wave">
+  <rect width="1200" height="260" fill="#050B18"/>
+  <path d="M0 180C120 130 240 120 360 150C480 180 600 220 720 210C840 200 960 150 1200 90V260H0Z" fill="#0B1220"/>
+  <path d="M0 206C140 162 268 156 392 182C516 208 648 236 780 220C900 206 1020 174 1200 140" stroke="#00F7FF" stroke-width="4" fill="none" stroke-linecap="round"/>
+  <path d="M0 222C140 188 268 184 392 208C516 232 648 240 780 226C900 214 1020 182 1200 154" stroke="#3B82F6" stroke-width="2" fill="none" stroke-linecap="round" opacity="0.8"/>
+  <text x="600" y="96" text-anchor="middle" fill="#E5F6FF" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="700">Thanks for visiting my profile!</text>
+  <text x="600" y="130" text-anchor="middle" fill="#94A3B8" font-family="Segoe UI, Arial, sans-serif" font-size="18">Happy Coding! • Turning Data Into Insights • Learning • Building • Improving</text>
+</svg>
