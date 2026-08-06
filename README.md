@@ -151,7 +151,7 @@ Business Insights
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="./assets/contribution-snake.svg" width="90%" alt="Contribution snake" />
+  <img src="https://raw.githubusercontent.com/Jai3502/Jai3502/output/github-contribution-grid-snake.svg" width="90%" alt="Contribution Snake" />
 </p>
 
 ## 🌱 Currently Improving
